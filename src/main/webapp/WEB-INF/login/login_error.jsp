@@ -11,7 +11,7 @@
     <title>Wrong credentials</title>
 </head>
 <body>
-    <h1 style="color: red">Sorry, credentials you've used are not correct.</h1>
+    <h1>Sorry, credentials you've used are not correct.</h1>
     <a href="${pageContext.request.contextPath}/">Back to log-in page.</a>
 </body>
 </html>

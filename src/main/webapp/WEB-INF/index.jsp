@@ -30,6 +30,7 @@
         </label>
     </fieldset>
     <button type="submit">Submit</button>
+    <a href="${pageContext.request.contextPath}/logout">Log out!</a>
 </form>
 </body>
 </html>
